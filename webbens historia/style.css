@@ -1,8 +1,24 @@
-h1{text-align: center;}
 
-h2{text-align: center;}
+body{margin: 0% 10%;}
 
-h1 {font-family: 'Times New Roman', Times, serif;}
-h3{font-family: 'Times New Roman', Times, serif;}
+h1 {
+    text-align: center;
+}
 
-img{text-align: center;}
+h2 {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
