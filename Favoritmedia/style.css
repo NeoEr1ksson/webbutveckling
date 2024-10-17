@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp3023443.jpg);
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-items: center;
+    gap: 20px;
+
+    margin-left: 200px;
+    margin-right: 200px;
+    color: lightgoldenrodyellow;
+
+    p {
+        text-align: center;
+    }
+
+    p {
+        font-family:'Times New Roman', Times, serif
+    }
+
+
+}
+
+//https://wallpapercave.com/wp/wp3023443.jpg////
+///https://i.pinimg.com/550x/ab/de/39/abde392b1477a750e6b385b53820fe62.jpg//
