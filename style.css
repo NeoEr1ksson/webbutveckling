@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.fjiBaVPezvGV75udh8IaKQAAAA?rs=1&pid=ImgDetMain);
+}
+
+img {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    margin: auto;
+    display: block;
+gap: 20px;
+    width: 250px;
+    height: 350px;
+}
+
+p {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    display: block;
+    color: antiquewhite;
+}
+
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 33% 32% 33%;
+
+
+
+}
