@@ -1,0 +1,27 @@
+body {
+background-image: url(https://th.bing.com/th/id/R.d0703f4ed7185661a825e7366d52c3e7?rik=vMnXfrcyn4VQcA&pid=ImgRaw&r=0)
+
+
+
+}
+
+
+.grid{ display: grid;
+    grid-template-columns: auto auto auto;
+
+justify-items:right;
+
+gap: 20px
+}
+
+
+
+
+p {   color: rgb(218, 255, 216);
+    font-family: 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs
+    }
+
+    h1 {   color: rgb(207, 249, 214);
+        font-family:'Arial Narrow Bold'}
+        h4 {   color: rgb(180, 249, 191);
+            font-family:'Arial Narrow Bold'}
