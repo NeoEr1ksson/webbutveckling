@@ -34,7 +34,15 @@ h1 {
 .grid {
     display: grid;
     grid-template-columns: 33% 32% 33%;
-
-
-
+    row-gap: 20px;
 }
+
+
+@media only screen and (max-width: 800px) {
+    img {
+        width: 200px;
+    }
+    .grid {
+        grid-template-columns: 45% 45%;
+    }
+  }
