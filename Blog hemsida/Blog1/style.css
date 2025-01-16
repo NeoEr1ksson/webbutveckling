@@ -1,9 +1,11 @@
 body {
 
 background-image: url(https://th.bing.com/th/id/OIP.TjpCttReL48epdS38Z46lQAAAA?rs=1&pid=ImgDetMain);
+color: rgb(188, 76, 111);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .grid{
-    
+    text-align: center;
 
 }
