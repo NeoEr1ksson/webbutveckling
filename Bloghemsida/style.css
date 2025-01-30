@@ -1,11 +1,20 @@
 body{
-
-
-
-background-image: url("https://th.bing.com/th/id/OIP.A82m1024w9mAS6k5GA9qFQHaHa?rs=1&pid=ImgDetMain");
-
-color: antiquewhite;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/020/542/687/original/old-brick-wall-texture-background-closeup-brick-wall-surface-vector.jpg");
+    color: rgb(252, 227, 215);
     text-align: center;
-    font-family:'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+}
 
+section {
+    display: flex;
+    margin-left: 30%;
+    margin-right: 30%;
+
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
 }

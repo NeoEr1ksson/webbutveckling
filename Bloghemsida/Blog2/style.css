@@ -1,7 +1,7 @@
 body {
 
-    background-image: url("https://cdna.artstation.com/p/assets/images/images/040/009/916/medium/gleb-bystrow-cs-dream.jpg?1627579865");
-    color: hsl(0, 0%, 100%);
+    background-image: url("https://img.freepik.com/premium-photo/wood-parquet-tiled_924688-1410.jpg");
+    color: hsl(0, 100%, 97%);
     font-family: 'Arial Narrow Bold', sans-serif;
     width: 100%;
     margin: 0;
@@ -21,11 +21,11 @@ p {
 }
 
 main aside {
-    width: 20%;
+    width: 10%;
 }
 
 main article {
-    width: 80%;
+    width: 90%;
 }
 
 article img {
