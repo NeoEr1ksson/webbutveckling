@@ -1,0 +1,16 @@
+h1{font-family: 'Times New Roman', Times, serif;}
+
+body {
+    text-align: center;
+}
+h2{text-color:00;}
+
+h2{color: red;}
+
+h4{color: #e50d0d;}
+@media (max-width: 600px) {
+  body {
+color: rgb(66, 66, 66);
+    background-image: url("https://i.pinimg.com/736x/c8/d6/ee/c8d6ee9d7fe8e2d694897ff8b479c5d9.jpg");
+  }
+}

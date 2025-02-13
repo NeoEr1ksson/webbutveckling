@@ -1,0 +1,38 @@
+
+body{margin: 0% 10%;}
+
+h1 { font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+@media (orientation: landscape) { 
+    body {
+        font-size: 1.2em;
+    }
+     }
+
+@media (orientation: portrait) {
+Body {
+
+    background-color: black;
+    color: antiquewhite;
+ font-size: 1em;   
+}
+
+
+}
