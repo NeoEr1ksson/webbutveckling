@@ -47,3 +47,6 @@ function changeImages(mediaQuery) {
 mediaQuery.addEventListener("change", function () {
     changeImages(mediaQuery)
 })
+
+
+changeImages(mediaQuery)
