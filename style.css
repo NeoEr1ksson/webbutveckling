@@ -1,5 +1,5 @@
 body {
-    background-image: url("https://pbs.twimg.com/media/FA9ZEnwVQAMGFq2.png:large");
+    background-image: url("https://milanhung.com/wp-content/uploads/2020/10/disco-elysium-thoughtcabinet1.jpg");
 }
 
 img {
@@ -14,6 +14,7 @@ gap: 20px;
 }
 
 p {
+    color: antiquewhite;
     text-align: center;
     margin: auto;
     display: block;

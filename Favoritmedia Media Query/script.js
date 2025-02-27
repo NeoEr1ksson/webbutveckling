@@ -19,7 +19,7 @@ function changeImages(mediaQuery) {
         img3.src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3e6d9276-f1d5-4938-a79a-38037a489fef/dchyiwz-0570b47a-f188-457a-ab88-21e78b7d5264.png/v1/fill/w_575,h_800,q_80,strp/darkwood_by_narcomanic_dchyiwz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvM2U2ZDkyNzYtZjFkNS00OTM4LWE3OWEtMzgwMzdhNDg5ZmVmXC9kY2h5aXd6LTA1NzBiNDdhLWYxODgtNDU3YS1hYjg4LTIxZTc4YjdkNTI2NC5wbmciLCJ3aWR0aCI6Ijw9NTc1In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.iSpb5FScLuL9gK6PJKk28gceI37WB_GBUk7m_1mryGA"
         img4.src = "https://th.bing.com/th/id/OIP.Z1F0YH1QirMMOULFvipmuQHaKO?rs=1&pid=ImgDetMain"
         img5.src = "https://i.pinimg.com/originals/bf/15/18/bf1518aab923aca500500dd81f7a2a5d.png"
-        img6.src = "https://ih1.redbubble.net/image.3571408649.0755/raf,750x1000,075,t,101010:01c5ca27c6.jpg"
+        img6.src = "https://pics.filmaffinity.com/cruelty_squad-915154923-large.jpg"
         img7.src = "https://preview.redd.it/elden-ring-cover-link-to-original-artist-in-comments-v0-va1x3q6gtev81.png?auto=webp&s=66a9f94d0cead1967b0a0aaeb12e15c471ccc40e"
         img8.src = "https://c4.wallpaperflare.com/wallpaper/35/864/877/disco-elysium-cover-art-game-logo-hd-wallpaper-preview.jpg"
         img9.src = "https://th.bing.com/th/id/OIP.ygx6g0wuWuDi7wGeGrXIfgHaLH?rs=1&pid=ImgDetMain"
