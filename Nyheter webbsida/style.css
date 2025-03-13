@@ -1,0 +1,32 @@
+
+
+img{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    margin: auto;
+    display: block;
+gap: 20px;
+    width: 800px;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    color: rgb(181, 31, 31);
+}
+p  {text-align: center;}
+h2 {text-align: center;}
+h3{
+    color: rgb(181, 31, 31);
+    text-align: center;
+
+}
+
+@media only screen and (max-width: 800px) {
+    img {
+        width: 450px;
+    }
+    .grid {
+        grid-template-columns: 45% 45%;
+    }
+  }
