@@ -1,0 +1,29 @@
+img {
+    width: 150px;
+    height: 150px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(248, 252, 255);
+text-align: center;
+}
+body{
+
+    background-image: url(https://th.bing.com/th/id/OIP.2ln53umtYH0GD2ZPbXIAKwHaHa?w=600&h=600&rs=1&pid=ImgDetMain);
+}
+
+@media (max-width: 800px) {
+    img {
+        width: 150px;
+        height: 150px;
+        margin-left: 100px;
+        margin-right: 20px;
+}
+}
+@media (min-width: 800px) {
+    img {
+        width: 150px;
+        height: 150px;
+
+}
+}
