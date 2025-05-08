@@ -1,7 +1,11 @@
 img {
     display: block;
     width: 150px;
-    height: 150px;
+    height: 200px;
     margin-left: auto;
     margin-right: auto;
 }
+body {background-color: orange;}
+p {color: brown;}
+
+a{color: brown;}

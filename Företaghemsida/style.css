@@ -8,28 +8,28 @@ h1 {
     color:  color rgb(248, 252, 255); 
 }
 p{
-    color: rgb(248, 252, 255); 
+    color: rgb(179, 59, 59); 
 }
 
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-color: rgb(248, 252, 255);
+color: rgb(179, 59, 59);
 text-align: center;
 }
 body{
 
-    background-image: url(https://th.bing.com/th/id/OIP.2ln53umtYH0GD2ZPbXIAKwHaHa?w=600&h=600&rs=1&pid=ImgDetMain);
+   background-color:orange
 }
 
 .sidebyside {
     display: flex;
 }
-a {color: rgb(248, 252, 255);}
+a {color: rgb(249, 9, 9);}
 
 @media (max-width: 800px) {
     img {
         display: block;
-        width: 150px;
+        width: 125px;
         height: 150px;
         margin-left: auto;
         margin-right: auto;
@@ -40,8 +40,7 @@ a {color: rgb(248, 252, 255);}
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: 250px;
+        width: 200px;
         height: 250px;
-
 }
 }
