@@ -38,6 +38,7 @@ h1 {
     row-gap: 20px;
 }
 
+.ad {width: 100%;}
 
 @media only screen and (max-width: 800px) {
     img {

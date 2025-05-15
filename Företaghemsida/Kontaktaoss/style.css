@@ -1,7 +1,7 @@
 img{
     display: block;
-        width: 200px;
-        height: 250px;
+        width: 150px;
+        height: 200px;
         margin-left: auto;
         margin-right: auto;
 }
@@ -17,7 +17,7 @@ h1{text-align: center;}
 
 a {color: rgb(172, 35, 35);}
 
-.location{ width: 80%;}
+.location{height: 275px; width: 80%;}
 
 
 @media only screen and (min-width: 800px) {

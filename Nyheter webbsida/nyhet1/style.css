@@ -27,6 +27,8 @@ h1{
         width: 450px;
 
     }
+    
+   
     .grid {
         grid-template-columns: 45% 45%;
     }

@@ -21,8 +21,8 @@ h2 {text-align: center;}
 h3{
     color: rgb(215, 20, 20);
     text-align: center;
-
 }
+iframe {width: 20px; height: 20px;}
 
 @media only screen and (max-width: 800px) {
     img {
