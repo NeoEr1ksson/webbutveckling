@@ -12,3 +12,18 @@ a{color: brown;}
 
 h1 {text-align: center;
 color: brown;}
+
+@media (max-width: 800px) {
+
+ }
+
+@media (min-width: 800px) {
+p{
+    
+    text-align: center;
+}
+
+iframe {
+margin-left: 28%;}
+ 
+}

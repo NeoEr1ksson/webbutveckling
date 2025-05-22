@@ -1,14 +1,34 @@
 body {
-    background-image: url("https://www.menupix.com/menus/2016022328479_01.jpg");
+background-color: orange;
 }
-@media only screen and (max-width: 800px) {
-    img {
-        width: 200px;
-    }
-    .grid {
-        grid-template-columns: 45% 45%;
-    }
-  }
-  @media only screen and (min-width: 800px)  {
-    img {width: 250px;}
+
+img { width: 250px; height: 350px;}
+
+p {color: brown; text-align: left}
+
+h1 {color: brown;}
+
+h6{color: orange;}
+
+a {color: brown;}
+
+@media only screen and (min-width: 800px)
+ {
+img {margin-left: 500px;}
+p {text-align: center;
+margin-left: 20%;
+margin-right: 20%;
+}
+h1{text-align: center;}
+ }
+
+ @media only screen and (max-width: 800px)
+  {
+    img  {
+margin-left: 30%;
+}
+p {text-align: center;
+margin-left: 20%;
+margin-right: 20%;}
+h1{text-align: center;}
   }
